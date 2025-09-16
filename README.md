@@ -2,7 +2,7 @@
 The project demonstrates how marital status influences workplace performance, gender representation, and job type distribution — offering insights to design more inclusive and responsive HR strategies.
 # MARITAL STATUS SUMMARY REPORT
 
-**BY OLOLADE AND EMMANUEL**  
+**BY OLOLADE  
 **DATE: 16/06/2025**
 
 ---<img width="1200" height="538" alt="Screenshot 2025-09-16 033956" src="https://github.com/user-attachments/assets/7957bf07-302e-4a9b-a364-8a6b3e83f815" />
